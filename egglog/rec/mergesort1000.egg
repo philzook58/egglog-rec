@@ -1,0 +1,5 @@
+(include "egglog/lib/mergesort.egg")
+(push)
+(define test (mergesORt (rev (times d10 (times d10 d10)))))
+(run 10000)
+(pop)

@@ -1,0 +1,5 @@
+(include "egglog/lib/missionaries.egg")
+(push)
+(define test (solve (pos west d2 d2 d0 d0) (pos east d0 d0 d2 d2) nil_pl))
+(run 10000)
+(pop)

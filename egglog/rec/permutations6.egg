@@ -1,0 +1,5 @@
+(include "egglog/lib/permutations.egg")
+(push)
+(define test (perm (s (s (s (s (s (s d0))))))))
+(run 10000)
+(pop)

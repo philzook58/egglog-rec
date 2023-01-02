@@ -1,0 +1,5 @@
+(include "egglog/lib/revnat.egg")
+(push)
+(define test (rev (gen (times d10 (times d10 (times d10 d10))))))
+(run 10000)
+(pop)

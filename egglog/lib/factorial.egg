@@ -1,0 +1,13 @@
+
+(datatype Nat)
+(function d0 () Nat)
+(function s (Nat) Nat)
+(function plus (Nat Nat) Nat)
+(function times (Nat Nat) Nat)
+(function fact (Nat) Nat)
+(rewrite (plus d0 N) N )
+(rewrite (plus (s N) M) (s (plus N M)) )
+(rewrite (times d0 N) d0 )
+(rewrite (times (s N) M) (plus M (times N M)) )
+(rewrite (fact d0) (s d0) )
+(rewrite (fact (s N)) (times (s N) (fact N)) )

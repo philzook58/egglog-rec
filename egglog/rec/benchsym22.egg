@@ -1,0 +1,5 @@
+(include "egglog/lib/asfsdfbenchmark.egg")
+(push)
+(define test (benchevalsym17 twentytwo))
+(run 10000)
+(pop)

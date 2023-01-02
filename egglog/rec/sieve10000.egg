@@ -1,0 +1,5 @@
+(include "egglog/lib/sieve.egg")
+(push)
+(define test (sieve (intsBetween (s (s z)) (mult ten (mult ten (mult ten ten))))))
+(run 10000)
+(pop)

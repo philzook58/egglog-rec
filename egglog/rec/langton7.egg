@@ -1,0 +1,5 @@
+(include "egglog/lib/langton.egg")
+(push)
+(define test (next d7 d7 d7 d7 d7))
+(run 10000)
+(pop)

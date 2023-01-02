@@ -1,0 +1,5 @@
+(include "egglog/lib/tak.egg")
+(push)
+(define test (tak (Pos (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s d0))))))))))))))))))) (Pos (s (s (s (s (s (s (s (s (s (s (s (s d0))))))))))))) (Pos (s (s (s (s (s (s d0)))))))))
+(run 10000)
+(pop)

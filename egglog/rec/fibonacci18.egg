@@ -1,0 +1,5 @@
+(include "egglog/lib/fibonacci.egg")
+(push)
+(define test (fibb (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s (s d0))))))))))))))))))))
+(run 10000)
+(pop)

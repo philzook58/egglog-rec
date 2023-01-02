@@ -1,0 +1,23 @@
+(include "egglog/lib/bool.egg")
+(include "egglog/lib/bit.egg")
+(include "egglog/lib/octet.egg")
+(include "egglog/lib/octetsum.egg")
+(push)
+(define test (eqOctetSum (addOctetSum x00 xFF x0) (addOctetSum xFF x00 x0)))
+(run 10000)
+(pop)
+
+(push)
+(define test (eqOctetSum (addOctetSum x00 xFF x1) (addOctetSum xFF x00 x1)))
+(run 10000)
+(pop)
+
+(push)
+(define test (eqOctetSum (addOctetSum x55 xCC x0) (addOctetSum xCC x55 x0)))
+(run 10000)
+(pop)
+
+(push)
+(define test (eqOctetSum (addOctetSum x55 xCC x1) (addOctetSum xCC x55 x1)))
+(run 10000)
+(pop)

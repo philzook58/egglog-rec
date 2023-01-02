@@ -1,0 +1,5 @@
+(include "egglog/lib/bubblesort.egg")
+(push)
+(define test (rev d10))
+(run 10000)
+(pop)

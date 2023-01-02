@@ -1,6 +1,6 @@
 # Rewriting engine competition translated to egglog.
 
-<https://sourcesup.renater.fr/scm/viewvc.php/rec/2019-CONVECS/>
+<https://sourcesup.renater.fr/scm/viewvc.php/rec/2019-CONVECS/> Thanks to the authors of these benchmarks which at least includes Hubert Garavel and others.
 
 - scrape.py was used to get stuff off the website. You probably don't need this
 - rec.py generates egglog files from the rec files. There may still be bugs in this translation
