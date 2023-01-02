@@ -1,5 +1,0 @@
-(include "egglog/lib/hanoi.egg")
-(push)
-(define test (solve a b d16))
-(run 10000)
-(pop)

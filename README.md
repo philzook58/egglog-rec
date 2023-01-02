@@ -7,3 +7,5 @@
 - benchmark.py runs the tests. You'll need to add your egglog binary
 
 There may still be significant bugs in the translation of rules.
+
+The natlist and hanoi examples are currently disabled. Hanoi seems to be missing the relevant original code. natlist isn't parsing due to resource restrictions.

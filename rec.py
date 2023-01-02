@@ -100,6 +100,7 @@ def parse_file(name):
             line = line.replace("not", "mynot")
             line = line.replace("true", "mytrue")
             line = line.replace("false", "myfalse")
+            line = line.replace("union", "myunion")
             line = line.replace(";", ",")  # ; is altneraitve for ,?
             if line.isspace() or len(line) == 0:
                 continue
@@ -195,7 +196,7 @@ def pp_data(data):
 # Using os.walk()
 for name in glob.glob('orig/**/*.rec', recursive=True):
     print(name)
-    if "natlist" in name:  # too many parens.
+    if "natlist" in name or "hanoi" in name:  # too many parens.
         continue
     data = parse_file(name)
     eggname = name.replace("orig", "egglog")

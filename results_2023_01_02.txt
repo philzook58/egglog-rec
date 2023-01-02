@@ -1,0 +1,159 @@
+egglog/rec/benchtree20.egg
+test failed Command '['../egg-smol2/target/release/egg-smol', 'egglog/rec/benchtree20.egg']' timed out after 99.99997788306791 seconds
+egglog/rec/benchtree20.egg time 100.10576009750366
+egglog/rec/evaltree.egg
+egglog/rec/evaltree.egg time 54.132405519485474
+egglog/rec/benchexpr10.egg
+egglog/rec/benchexpr10.egg time 0.1148076057434082
+egglog/rec/hanoi8.egg
+[ERROR] Errors:
+    Unbound symbol solve
+egglog/rec/hanoi8.egg time 0.016237974166870117
+egglog/rec/bubblesort720.egg
+egglog/rec/bubblesort720.egg time 0.16475963592529297
+egglog/rec/benchsym10.egg
+egglog/rec/benchsym10.egg time 0.11533713340759277
+egglog/rec/permutations7.egg
+test failed Command '['../egg-smol2/target/release/egg-smol', 'egglog/rec/permutations7.egg']' timed out after 99.99997682194225 seconds
+egglog/rec/permutations7.egg time 100.03183436393738
+egglog/rec/sieve100.egg
+egglog/rec/sieve100.egg time 0.06508016586303711
+egglog/rec/mul8.egg
+egglog/rec/mul8.egg time 0.32522082328796387
+egglog/rec/fibonacci20.egg
+egglog/rec/fibonacci20.egg time 11.193501472473145
+egglog/rec/add8.egg
+egglog/rec/add8.egg time 0.11454510688781738
+egglog/rec/add16.egg
+egglog/rec/add16.egg time 0.11466097831726074
+egglog/rec/benchexpr22.egg
+egglog/rec/benchexpr22.egg time 0.31493616104125977
+egglog/rec/langton6.egg
+test failed Command '['../egg-smol2/target/release/egg-smol', 'egglog/rec/langton6.egg']' timed out after 99.99997944105417 seconds
+egglog/rec/langton6.egg time 100.00430011749268
+egglog/rec/factorial6.egg
+egglog/rec/factorial6.egg time 0.03231072425842285
+egglog/rec/revnat1000.egg
+test failed Command '['../egg-smol2/target/release/egg-smol', 'egglog/rec/revnat1000.egg']' timed out after 99.99997745698784 seconds
+egglog/rec/revnat1000.egg time 100.01457381248474
+egglog/rec/sieve1000.egg
+egglog/rec/sieve1000.egg time 0.26496005058288574
+egglog/rec/tak36.egg
+egglog/rec/tak36.egg time 0.01623392105102539
+egglog/rec/permutations6.egg
+egglog/rec/permutations6.egg time 0.765859842300415
+egglog/rec/evalexpr.egg
+egglog/rec/evalexpr.egg time 0.032541751861572266
+egglog/rec/add32.egg
+egglog/rec/add32.egg time 0.1150205135345459
+egglog/rec/missionaries2.egg
+[ERROR] Errors:
+    Unbound symbol solve
+egglog/rec/missionaries2.egg time 0.016254663467407227
+egglog/rec/binarysearch.egg
+egglog/rec/binarysearch.egg time 0.016173362731933594
+egglog/rec/mergesort10.egg
+egglog/rec/mergesort10.egg time 0.016174793243408203
+egglog/rec/hanoi20.egg
+[ERROR] Errors:
+    Unbound symbol solve
+egglog/rec/hanoi20.egg time 0.01677989959716797
+egglog/rec/closure.egg
+egglog/rec/closure.egg time 0.016169309616088867
+egglog/rec/mul32.egg
+egglog/rec/mul32.egg time 0.2649219036102295
+egglog/rec/omul8.egg
+egglog/rec/omul8.egg time 0.214555025100708
+egglog/rec/hanoi16.egg
+[ERROR] Errors:
+    Unbound symbol solve
+egglog/rec/hanoi16.egg time 0.01635122299194336
+egglog/rec/factorial9.egg
+test failed Command '['../egg-smol2/target/release/egg-smol', 'egglog/rec/factorial9.egg']' timed out after 99.99998325598426 seconds
+egglog/rec/factorial9.egg time 100.00452327728271
+egglog/rec/sieve20.egg
+egglog/rec/sieve20.egg time 0.01620030403137207
+egglog/rec/mergesort1000.egg
+egglog/rec/mergesort1000.egg time 2.070206642150879
+egglog/rec/bubblesort10.egg
+egglog/rec/bubblesort10.egg time 0.016115665435791016
+egglog/rec/benchexpr20.egg
+egglog/rec/benchexpr20.egg time 0.2144937515258789
+egglog/rec/benchsym20.egg
+egglog/rec/benchsym20.egg time 0.22141122817993164
+egglog/rec/bubblesort1000.egg
+egglog/rec/bubblesort1000.egg time 0.3146190643310547
+egglog/rec/tak18.egg
+egglog/rec/tak18.egg time 0.0160830020904541
+egglog/rec/mul16.egg
+egglog/rec/mul16.egg time 0.16461467742919922
+egglog/rec/fibonacci18.egg
+egglog/rec/fibonacci18.egg time 0.9679439067840576
+egglog/rec/quicksort1000.egg
+egglog/rec/quicksort1000.egg time 0.264758825302124
+egglog/rec/fibonacci21.egg
+egglog/rec/fibonacci21.egg time 6.585034132003784
+egglog/rec/logic3.egg
+egglog/rec/logic3.egg time 0.00802159309387207
+egglog/rec/missionaries3.egg
+[ERROR] Errors:
+    Unbound symbol solve
+egglog/rec/missionaries3.egg time 0.01608419418334961
+egglog/rec/factorial8.egg
+egglog/rec/factorial8.egg time 35.02251124382019
+egglog/rec/omul32.egg
+egglog/rec/omul32.egg time 0.5655519962310791
+egglog/rec/revnat100.egg
+egglog/rec/revnat100.egg time 0.1643826961517334
+egglog/rec/dart.egg
+[ERROR] Unrecognized token `union` found at 140:145
+    Expected one of r#"([[:alpha:]][\\w-]*)|([-+*/!=<>&|^/%]+)"#
+egglog/rec/dart.egg time 0.008034706115722656
+egglog/rec/quicksort100.egg
+egglog/rec/quicksort100.egg time 0.03229475021362305
+egglog/rec/factorial5.egg
+egglog/rec/factorial5.egg time 0.01636362075805664
+egglog/rec/evalsym.egg
+egglog/rec/evalsym.egg time 0.06426143646240234
+egglog/rec/intnat.egg
+egglog/rec/intnat.egg time 0.03206348419189453
+egglog/rec/revnat10000.egg
+egglog/rec/revnat10000.egg time 37.531800746917725
+egglog/rec/sieve10000.egg
+egglog/rec/sieve10000.egg time 18.8676335811615
+egglog/rec/quicksort10.egg
+egglog/rec/quicksort10.egg time 0.01580524444580078
+egglog/rec/fibfree.egg
+test failed Command '['../egg-smol2/target/release/egg-smol', 'egglog/rec/fibfree.egg']' timed out after 99.99998239101842 seconds
+egglog/rec/fibfree.egg time 120.4942307472229
+egglog/rec/benchtree10.egg
+egglog/rec/benchtree10.egg time 0.31874775886535645
+egglog/rec/merge.egg
+egglog/rec/merge.egg time 0.03200531005859375
+egglog/rec/fib32.egg
+egglog/rec/fib32.egg time 0.01596975326538086
+egglog/rec/bubblesort100.egg
+egglog/rec/bubblesort100.egg time 0.02429056167602539
+egglog/rec/benchsym22.egg
+egglog/rec/benchsym22.egg time 0.26457643508911133
+egglog/rec/langton7.egg
+test failed Command '['../egg-smol2/target/release/egg-smol', 'egglog/rec/langton7.egg']' timed out after 99.99998009204865 seconds
+egglog/rec/langton7.egg time 100.00713229179382
+egglog/rec/hanoi12.egg
+[ERROR] Errors:
+    Unbound symbol solve
+egglog/rec/hanoi12.egg time 0.015896081924438477
+egglog/rec/maa.egg
+egglog/rec/maa.egg time 37.77387595176697
+egglog/rec/bubblesort20.egg
+egglog/rec/bubblesort20.egg time 0.01605224609375
+egglog/rec/benchtree22.egg
+egglog/rec/benchtree22.egg time 88.91305494308472
+egglog/rec/mergesort100.egg
+egglog/rec/mergesort100.egg time 0.06777501106262207
+egglog/rec/sieve2000.egg
+egglog/rec/sieve2000.egg time 1.220548152923584
+egglog/rec/fibonacci19.egg
+egglog/rec/fibonacci19.egg time 3.0221033096313477
+egglog/rec/factorial7.egg
+egglog/rec/factorial7.egg time 0.5660476684570312
